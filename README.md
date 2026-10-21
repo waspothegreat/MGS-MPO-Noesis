@@ -1,6 +1,6 @@
 # Metal Gear Solid: Portable Ops / Portable Ops Plus - Noesis plugin
 
-`fmt_mgs_portableops.py` adds support for both PSP games (USA releases tested) to Noesis:
+`fmt_mgs_portableops.py` adds support for both PSP games (USA releases) to Noesis:
 
 | File | Support |
 |---|---|
