@@ -11,9 +11,6 @@
 | `.txp` | textures: every frame (sub image) of the texture archive |
 | `.mtar` | motion archives: shown on the matching model found next to them |
 
-Both games share the exact same engine formats. Every loader routine used for these formats was compared between
-the two executables (`BOOT.BIN`) and is identical apart from rendering state that does not affect the data.
-
 ## Installation
 
 Copy `fmt_mgs_portableops.py` into `<Noesis>/plugins/python/` (Noesis 4.4+, uses its embedded Python 3.2).
